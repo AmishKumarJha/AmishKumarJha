@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amish Kumar Jha</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- 🌱 I’m currently learning **MEARN**
+- 🌱 I’m currently learning **MERN**
 
 - 💬 Ask me about **React-Native**
 
